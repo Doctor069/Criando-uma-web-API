@@ -1,0 +1,62 @@
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\appsettings.json
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\NET 6_criando_uma_web.exe
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\NET 6_criando_uma_web.deps.json
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\NET 6_criando_uma_web.runtimeconfig.json
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\NET 6_criando_uma_web.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\NET 6_criando_uma_web.pdb
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.csproj.AssemblyReference.cache
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.AssemblyInfoInputs.cache
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.AssemblyInfo.cs
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.csproj.CoreCompileInputs.cache
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\staticwebassets\msbuild.NET 6_criando_uma_web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\staticwebassets\msbuild.build.NET 6_criando_uma_web.props
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NET 6_criando_uma_web.props
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NET 6_criando_uma_web.props
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\scopedcss\bundle\NET 6_criando_uma_web.styles.css
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.csproj.CopyComplete
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\refint\NET 6_criando_uma_web.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.pdb
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.genruntimeconfig.cache
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\ref\NET 6_criando_uma_web.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\bin\Debug\net6.0\NET 6_criando_uma_web.xml
+C:\Users\Micae\source\repos\NET 6_criando_uma_web\NET 6_criando_uma_web\obj\Debug\net6.0\NET 6_criando_uma_web.xml
